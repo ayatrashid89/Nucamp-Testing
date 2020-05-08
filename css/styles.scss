@@ -1,3 +1,4 @@
+$color-teal:#17A2B8;
 $color-primary: rgb(28, 51, 180);
 $color-secondary: #5637dd;
 $color-pale: #CEC8FF;
@@ -60,5 +61,19 @@ footer {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid rgb(221, 102, 55);
 }
+#loginModal{
+    
+    .modal-header {
+         color: rgb(184, 19, 19);
+         background-color: $color-mid;
+       }
+   }
+   #reserveModal{
+       
+       .modal-header {
+            color: white;
+            background-color: $color-teal;
+          }
+      }

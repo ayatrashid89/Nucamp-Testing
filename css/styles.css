@@ -41,4 +41,12 @@ footer {
   background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-  border: solid #5637DD; }
+  border: solid #dd6637; }
+
+#loginModal .modal-header {
+  color: white;
+  background-color: #901CAD; }
+
+#reserveModal .modal-header {
+  color: white;
+  background-color: #17A2B8; }
